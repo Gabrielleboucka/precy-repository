@@ -1,0 +1,26 @@
+.html{
+    width: 95%;
+}
+.bootstrap{
+    width: 80%;
+}
+.javascript{
+    width: 70%;
+}
+.wordpress{
+    width: 90%;
+}
+.cms{
+    width: 95%;
+}
+.packoffice{
+    width: 90%;
+}
+.nom{
+position: relative;
+top: 160px;
+}
+.titre{
+position: relative;
+top: 170px !important;
+}
